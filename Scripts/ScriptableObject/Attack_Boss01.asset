@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9feea66c2dc79f045884c40ee4e47e6b, type: 3}
+  m_Name: Attack_Boss01
+  m_EditorClassIdentifier: 
+  hitVFX: {fileID: 0}
+  muzzleFlash: {fileID: 6817754028948396306, guid: ee33614798cb24047b8b253a182ee2aa,
+    type: 3}
+  gameObjectbullet: {fileID: 7462352337163229760, guid: 1029e862e9006994d8e12196f84c15e8,
+    type: 3}
+  attack_power: 3
+  amountBullet: 41
+  explodeObject: {fileID: 788294810829202752, guid: e380258bd20071d46b00aa6ec08f32cb,
+    type: 3}
